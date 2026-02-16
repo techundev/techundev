@@ -2,24 +2,21 @@
 
 ### 📱 Android Developer | Kotlin & Java Specialist
 
-I am an Android Developer passionate about creating modern, smooth, and efficient mobile experiences. My expertise lies in declarative UI with **Jetpack Compose** and implementing robust architectures.
+I am a **Systems Engineer** with **8+ years of experience** in the Android ecosystem. During my career, I’ve specialized in high-impact sectors like **Banking in Guatemala**, where security and performance are critical.
 
----
+My expertise also covers **Terminal Management Systems (TMS)**, working directly with brand-specific SDKs to build robust payment and management solutions.
 
-### 🛠️ My Tech Stack
-
-- **Languages:** Kotlin, Java, SQL.
-- **UI Frameworks:** Jetpack Compose (Modern UI), XML (Legacy/Views).
-- **Architecture:** MVVM, Clean Architecture, Dependency Injection (Hilt/Koin).
-- **Jetpack Libraries:** Navigation, Room, WorkManager, DataStore.
-- **Networking:** Retrofit, OkHttp, Coroutines & Flow.
+- 🏗️ **Architectural Focus:** I’m passionate about Clean Architecture, Backend logic, and Dependency Injection.
+- 🛠️ **Tech Stack:** Expert in Kotlin/Java, Jetpack Compose, Hilt, Coroutines, and Room.
+- 🧪 **Quality Driven:** I advocate for solid testing strategies using Unit Testing, Mockk, and UI/Integration tests.
+- 🚀 **Future Goals:** Moving towards a Senior Android Role, exploring AI integration and Kotlin Multiplatform (KMP).
 
 ---
 
 ### 🚀 What I'm working on
 
-- 🔭 Currently working on: **[*]**
-- 🌱 Learning: **KMP (Kotlin Multiplatform) / Unit Testing**
+- 🔭 Currently working on: **Modernizing Banking UI with Jetpack Compose**
+- 🌱 Learning: **KMP (Kotlin Multiplatform) & AI for Mobile**
 - 💬 Ask me about: **Android, Mobile UI/UX, and Kotlin**
 
 ---
