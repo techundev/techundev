@@ -23,7 +23,8 @@ My expertise also covers **Terminal Management Systems (TMS)**, working directly
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techundev&show_icons=true&theme=radical)
+![Techundev's GitHub stats](https://github-stats-extended.vercel.app/api?username=techundev)](https://github.com/stats-organization/github-stats-extended)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techundev&layout=compact&theme=radical)
 
 ---
